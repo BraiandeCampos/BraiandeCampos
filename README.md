@@ -1,16 +1,25 @@
-## Hi there 👋
+Olá, eu sou o Braian 👋
 
-<!--
-**BraiandeCampos/BraiandeCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Desenvolvimento Web.
 
-Here are some ideas to get you started:
+ Atualmente:
+ <br>
+-📚 Estudando HTML e CSS
+<br>
+-⚡ Aprendendo JavaScript
+<br>
+-⚛️ Iniciando meus estudos em React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Evoluir como desenvolvedor Front-end, criar projetos práticos e compartilhar minha evolução aqui no GitHub.
+
+🛠️ Tecnologias
+
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,git,github" /> </p>
+
+"Todo grande desenvolvedor começou escrevendo a primeira linha de código."
+
+Redes:
+Instagram: <a>https://www.instagram.com/luriann__/<a>
+<br>
+Linkedin: <a>https://www.linkedin.com/in/braian-campos-9a8647413/<a>
